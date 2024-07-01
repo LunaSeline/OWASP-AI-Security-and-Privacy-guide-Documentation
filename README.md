@@ -1,1 +1,1 @@
-# OWASP-AI-Security-and-Privacy-guide-Documentation
+# OWASP-AI Security and Privacy guide Documentation
